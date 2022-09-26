@@ -1,0 +1,5 @@
+Xml
+-> 1. tag tertutup
+2. tag terbuka
+
+merapikan line -> " ctrl + alt + L "
